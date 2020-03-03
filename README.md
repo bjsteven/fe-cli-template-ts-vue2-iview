@@ -1,4 +1,41 @@
-# todo with TypeScript Vue iView
+# fe-cli template with typescript,Vue 2.x,iview
 
+工程模板
+
+## 工程初始化
+```
 yarn
-yarn run serve
+```
+
+### 开发
+```
+yarn dev
+```
+
+### 编译
+```
+yarn build
+```
+
+### 测试
+```
+yarn test
+```
+
+### 验证并修复语法错误
+```
+yarn lint
+```
+
+### 执行 end-to-end 测试
+```
+yarn test:e2e
+```
+
+### 执行单元测试
+```
+yarn test:unit
+```
+
+### 更多自定义配置
+参见 [Vue Cli 配置](https://cli.vuejs.org/zh/config/)

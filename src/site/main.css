@@ -1,0 +1,51 @@
+/**
+ * 全局样式
+ * @author steven
+ */
+/**
+ * less 变量 & 函数库，不要放具体的样式
+ * @author steven
+ */
+.flex-box {
+  display: flex;
+}
+.flex-1 {
+  flex: 1;
+}
+.flex-2 {
+  flex: 2;
+}
+html,
+body {
+  height: 100%;
+}
+.ivu-table-cell {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+.ivu-form-item-error-tip {
+  white-space: nowrap;
+}
+.ivu-input-number {
+  width: 100%;
+}
+.ivu-modal-confirm-body {
+  padding: 18px 0 0 0;
+}
+.ivu-modal-confirm-head ~ .ivu-modal-confirm-body {
+  padding: 0 0 0 42px;
+}
+.ivu-breadcrumb {
+  line-height: 38px;
+}
+.ivu-breadcrumb-item-separator {
+  position: relative;
+  top: -2px;
+  vertical-align: middle;
+  margin: 0 5px 0 2px;
+  font-size: 22px;
+  color: #ccc;
+}
+.site-content .ivu-breadcrumb:first-of-type {
+  margin-top: -10px;
+}

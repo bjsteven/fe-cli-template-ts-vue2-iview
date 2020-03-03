@@ -1,0 +1,20 @@
+const iconList: any = ['ios-add', 'ios-add-circle-outline',
+'ios-alarm-outline', 'ios-albums-outline', 'ios-alert-outline',
+'ios-american-football-outline', 'ios-analytics-outline', 'logo-angular',
+'md-aperture', 'ios-apps-outline', 'ios-appstore-outline', 'ios-archive-outline',
+'md-arrow-back', 'ios-arrow-dropdown', 'md-arrow-dropdown-circle', 'ios-arrow-dropleft-circle',
+'md-arrow-dropright', 'ios-arrow-dropup', 'md-arrow-dropup-circle', 'ios-arrow-round-back',
+'md-arrow-round-down', 'ios-arrow-round-up', 'md-arrow-up', 'md-at', 'ios-backspace', 'ios-barcode',
+'ios-baseball', 'ios-basket', 'ios-basketball', 'ios-battery-charging', 'md-battery-dead', 'ios-beaker',
+'ios-beer', 'ios-bicycle', 'ios-bluetooth', 'ios-boat-outline', 'ios-body-outline', 'ios-bonfire-outline',
+'ios-book-outline', 'ios-calendar', 'ios-call', 'ios-camera', 'ios-car', 'ios-card', 'ios-cart', 'ios-cash',
+'ios-chatboxes', 'ios-chatbubbles', 'ios-checkbox', 'md-checkbox-outline', 'ios-checkmark-circle',
+'md-checkmark-circle-outline', 'ios-clipboard-outline', 'ios-clock-outline', 'md-close',
+'md-close-circle', 'md-closed-captioning', 'md-cloud', 'md-cloud-circle', 'md-cloud-done',
+'md-cloud-download', 'ios-cloud-upload-outline', 'ios-cloudy-outline', 'ios-cloudy-night-outline',
+'md-code', 'ios-code-working', 'ios-cog', 'ios-color-fill', 'ios-color-filter', 'ios-color-palette',
+'ios-color-wand', 'ios-compass', 'ios-construct', 'ios-contact', 'ios-contacts', 'ios-contract',
+'md-contrast', 'md-copy', 'md-create', 'md-crop', 'ios-cube-outline', 'ios-cut-outline', 'ios-desktop',
+'ios-disc', 'ios-document', 'ios-done-all', 'ios-download-outline', 'logo-dropbox']
+
+export default iconList
